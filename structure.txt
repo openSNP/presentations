@@ -1,5 +1,6 @@
 Introduction - 
 	What is Personal Genomics?
+	How do GWAS/Microarrays work?
 	Why open?
 
 Main -

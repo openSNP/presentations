@@ -1,0 +1,13 @@
+Introduction - 
+	What is Personal Genomics?
+	Why open?
+
+Main -
+	Privacy implications
+	Positive consequences of open genotypings
+	Negative consequences of open genotypings
+	Why people should care
+
+End - 
+	Outlook for openSNP
+	Discussion

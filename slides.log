@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.3.3)  11 DEC 2011 13:46
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.3.3)  11 DEC 2011 13:59
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -866,17 +866,9 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 71--71
 
 [10
 
- <./gwas3.png (PNG copy)>] <gwas4.png, id=361, 803.0pt x 455.7025pt>
-File: gwas4.png Graphic file (type png)
+ <./gwas3.png (PNG copy)>] [11
 
-<use gwas4.png>
-Overfull \hbox (13.90443pt too wide) in paragraph at lines 77--77
- [] 
- []
-
-[11
-
- <./gwas4.png (PNG copy)>] [12
+] [12
 
 ] [13
 
@@ -892,10 +884,10 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 77--77
 
 ] [19
 
-] [20
-
 ]
-[21
+[20
+
+] [21
 
 ] [22
 
@@ -923,10 +915,10 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 77--77
 
 ] [34
 
-] [35
-
 ]
-[36
+[35
+
+] [36
 
 ] [37
 
@@ -946,8 +938,6 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 77--77
 
 ] [45
 
-] [46
-
 ]
 \tf@nav=\write5
 \openout5 = `slides.nav'.
@@ -965,33 +955,21 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 12880 strings out of 493848
- 231880 string characters out of 3149208
+ 12869 strings out of 493848
+ 231737 string characters out of 3149208
  317335 words of memory out of 3000000
- 15715 multiletter control sequences out of 15000+200000
+ 15711 multiletter control sequences out of 15000+200000
  6161 words of font info for 22 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,20n,62p,334b,732s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Outline0.3.1.41} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.2.2.24} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.2.1.21} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.1.2.17} has been referenced but does not e
-xist, replaced by a fixed one
-
-</usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><
-/usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></
-usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></us
-r/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></us
-r/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
-Output written on slides.pdf (46 pages, 691078 bytes).
+</usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
+></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb>
+</usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></
+usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></
+usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
+Output written on slides.pdf (45 pages, 637548 bytes).
 PDF statistics:
- 1306 PDF objects out of 1440 (max. 8388607)
- 105 named destinations out of 1000 (max. 500000)
- 180 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1275 PDF objects out of 1440 (max. 8388607)
+ 99 named destinations out of 1000 (max. 500000)
+ 175 words of extra memory for PDF output out of 10000 (max. 10000000)
 

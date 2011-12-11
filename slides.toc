@@ -1,9 +1,9 @@
 \beamer@endinputifotherversion {3.07pt}
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Association studies}{3}{0}{1}
-\beamer@subsectionintoc {1}{2}{Open GWAS}{18}{0}{1}
-\beamer@sectionintoc {2}{Privacy}{22}{0}{2}
-\beamer@subsectionintoc {2}{1}{Privacy implications}{22}{0}{2}
-\beamer@subsectionintoc {2}{2}{Consequences}{25}{0}{2}
-\beamer@sectionintoc {3}{Discussion}{39}{0}{3}
-\beamer@subsectionintoc {3}{1}{Outlook}{42}{0}{3}
+\beamer@subsectionintoc {1}{2}{Open GWAS}{17}{0}{1}
+\beamer@sectionintoc {2}{Privacy}{21}{0}{2}
+\beamer@subsectionintoc {2}{1}{Privacy implications}{21}{0}{2}
+\beamer@subsectionintoc {2}{2}{Consequences}{24}{0}{2}
+\beamer@sectionintoc {3}{Discussion}{38}{0}{3}
+\beamer@subsectionintoc {3}{1}{Outlook}{41}{0}{3}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.10.20)  28 OCT 2011 19:14
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.10.20)  11 DEC 2011 13:45
 entering extended mode
  %&-line parsing enabled.
 **slides.tex
@@ -639,21 +639,22 @@ Package: beamerinnerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
 y
 Package: beamerouterthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )))
-(/usr/share/texmf/tex/latex/beamer/base/themes/theme/beamerthemeCopenhagen.sty
-Package: beamerthemeCopenhagen 2010/06/17  (rcs-revision d02a7cf4d8ae)
+(/usr/share/texmf/tex/latex/beamer/base/themes/theme/beamerthemeDarmstadt.sty
+Package: beamerthemeDarmstadt 2010/06/17  (rcs-revision d02a7cf4d8ae)
 
-(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemesplit.sty
-Package: beamerouterthemesplit 2010/06/17  (rcs-revision d02a7cf4d8ae)
+(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemesmoothbars
+.sty
+Package: beamerouterthemesmoothbars 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
 (/usr/share/texmf/tex/latex/beamer/base/themes/inner/beamerinnerthemerounded.st
 y
 Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemewhale.sty
-Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
-)
 (/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemeorchid.sty
 Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemewhale.sty
+Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )) (/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks41
@@ -664,20 +665,20 @@ File: latin1.def 2008/03/30 v1.1d Input encoding file
 )) (./slides.aux)
 \openout1 = `slides.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 *geometry auto-detecting driver*
 *geometry detected driver: pdftex*
@@ -733,7 +734,7 @@ driver: pdftex
 \MPnumerator=\count154
 \everyMPtoPDFconversion=\toks44
 ) ABD: EveryShipout initializing macros
-Package hyperref Info: Link coloring OFF on input line 9.
+Package hyperref Info: Link coloring OFF on input line 13.
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
@@ -743,8 +744,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 \c@section@level=\count155
 )
-LaTeX Info: Redefining \ref on input line 9.
-LaTeX Info: Redefining \pageref on input line 9.
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
  (./slides.out)
 (./slides.out)
 \@outlinefile=\write5
@@ -752,47 +753,47 @@ LaTeX Info: Redefining \pageref on input line 9.
 
 \AtBeginShipoutBox=\box54
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 9.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 13.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 13.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 9.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 9.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 9.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 9.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 9.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 9.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 9.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 9.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 13.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 13.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 9.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 9.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 9.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 9.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 13.
 
 (/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-basic-dicti
 onary/translator-basic-dictionary-English.dict
@@ -820,24 +821,29 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (./slides.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 12.
+(Font)              size <5> substituted on input line 16.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-] [2
+] (./slides.toc) [2
 
-] [3
+]
+[3
 
 ] [4
 
 ] [5
 
-] [6
+] <SNP.png, id=214, 334.048pt x 418.363pt>
+File: SNP.png Graphic file (type png)
+ <use SNP.png> [6
 
-]
+ <./SNP.png>] <microarray.png, id=239, 1003.75pt x 594.22pt>
+File: microarray.png Graphic file (type png)
+ <use microarray.png>
 [7
 
-] [8
+ <./microarray.png>] [8
 
 ] [9
 
@@ -846,6 +852,68 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 ] [11
 
 ] [12
+
+] [13
+
+] [14
+
+] [15
+
+] [16
+
+] [17
+
+] [18
+
+]
+[19
+
+] [20
+
+] [21
+
+] [22
+
+] [23
+
+] [24
+
+] [25
+
+] [26
+
+] [27
+
+] [28
+
+] [29
+
+] [30
+
+] [31
+
+] [32
+
+] [33
+
+]
+[34
+
+] [35
+
+] [36
+
+] [37
+
+] [38
+
+] [39
+
+] [40
+
+] [41
+
+] [42
 
 ]
 \tf@nav=\write6
@@ -864,20 +932,21 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 14647 strings out of 495061
- 274348 string characters out of 1182620
- 337449 words of memory out of 3000000
- 17416 multiletter control sequences out of 15000+50000
- 5810 words of font info for 21 fonts, out of 3000000 for 9000
+ 14792 strings out of 495061
+ 276976 string characters out of 1182620
+ 346023 words of memory out of 3000000
+ 17499 multiletter control sequences out of 15000+50000
+ 6161 words of font info for 22 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 49i,19n,57p,416b,557s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,20n,62p,415b,750s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-te
 xlive/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/
-type1/public/amsfonts/cm/cmssi12.pfb>
-Output written on slides.pdf (12 pages, 130278 bytes).
+type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmssi8.pfb>
+Output written on slides.pdf (42 pages, 423427 bytes).
 PDF statistics:
- 475 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
- 135 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1103 PDF objects out of 1200 (max. 8388607)
+ 93 named destinations out of 1000 (max. 500000)
+ 155 words of extra memory for PDF output out of 10000 (max. 10000000)
 

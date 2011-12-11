@@ -6,7 +6,7 @@ Introduction -
 Main -
 	Privacy implications
 	Positive consequences of open genotypings
-	Negative consequences of open genotypings
+	Negative consequences of open genotypings - relatives, privacy
 	Why people should care
 
 End - 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.3.3)  11 DEC 2011 13:59
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.3.3)  11 DEC 2011 15:16
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -820,24 +820,24 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 ] [4
 
-] <SNP.png, id=207, 334.048pt x 418.363pt>
+] <SNP.png, id=252, 334.048pt x 418.363pt>
 File: SNP.png Graphic file (type png)
 
 <use SNP.png> [5
 
- <./SNP.png>] <microarray.png, id=234, 1003.75pt x 594.22pt>
+ <./SNP.png>] <microarray.png, id=285, 1003.75pt x 594.22pt>
 File: microarray.png Graphic file (type png)
 
 <use microarray.png> [6
 
  <./microarray.png>]
-<distribution-disease.png, id=260, 803.0pt x 552.0625pt>
+<distribution-disease.png, id=317, 803.0pt x 552.0625pt>
 File: distribution-disease.png Graphic file (type png)
 
 <use distribution-disease.png> [7
 
  <./distribution-disease.png (PNG copy)>]
-<gwas1.png, id=286, 803.0pt x 454.69875pt>
+<gwas1.png, id=349, 803.0pt x 454.69875pt>
 File: gwas1.png Graphic file (type png)
  <use gwas1.png>
 Overfull \hbox (13.90443pt too wide) in paragraph at lines 59--59
@@ -846,7 +846,7 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 59--59
 
 [8
 
- <./gwas1.png (PNG copy)>] <gwas2.png, id=311, 803.0pt x 455.7025pt>
+ <./gwas1.png (PNG copy)>] <gwas2.png, id=380, 803.0pt x 455.7025pt>
 File: gwas2.png Graphic file (type png)
 
 <use gwas2.png>
@@ -856,7 +856,7 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 65--65
 
 [9
 
- <./gwas2.png (PNG copy)>] <gwas3.png, id=336, 803.0pt x 455.7025pt>
+ <./gwas2.png (PNG copy)>] <gwas3.png, id=411, 803.0pt x 455.7025pt>
 File: gwas3.png Graphic file (type png)
 
 <use gwas3.png>
@@ -872,20 +872,36 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 71--71
 
 ] [13
 
-] [14
+]
+<doctor_xkcd.png, id=536, 51.19125pt x 117.43875pt>
+File: doctor_xkcd.png Graphic file (type png)
+ <use doctor_xkcd.png>
+[14
 
-] [15
-
-] [16
-
-] [17
-
-] [18
-
-] [19
+ <./doctor_xkcd.png (PNG copy)>]
+File: doctor_xkcd.png Graphic file (type png)
+ <use doctor_xkcd.png> [15
 
 ]
-[20
+File: doctor_xkcd.png Graphic file (type png)
+
+<use doctor_xkcd.png> [16
+
+] <23andme.png, id=629, 667.49374pt x 515.9275pt>
+File: 23andme.png Graphic file (type png)
+
+<use 23andme.png> [17
+
+ <./23andme.png>]
+File: 23andme.png Graphic file (type png)
+ <use 23andme.png> [18
+
+]
+File: 23andme.png Graphic file (type png)
+
+<use 23andme.png> [19
+
+] [20
 
 ] [21
 
@@ -903,20 +919,27 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 71--71
 
 ] [28
 
-] [29
+]
+<pie-sharing.png, id=1001, 269.005pt x 256.96pt>
+File: pie-sharing.png Graphic file (type png)
+ <use pie-sharing.png> [29
 
-] [30
+ <./pie-sharing.png (PNG copy)>]
+<sharing-reasons.png, id=1032, 678.535pt x 221.82875pt>
+File: sharing-reasons.png Graphic file (type png)
 
-] [31
+<use sharing-reasons.png> [30
+
+ <./sharing-reasons.png (PNG copy)>] [31
 
 ] [32
 
-] [33
+]
+[33
 
 ] [34
 
-]
-[35
+] [35
 
 ] [36
 
@@ -938,6 +961,31 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 71--71
 
 ] [45
 
+] [46
+
+] [47
+
+]
+[48
+
+] [49
+
+] [50
+
+] [51
+
+] [52
+
+] [53
+
+]
+<genetic_analysis.png, id=1774, 546.54187pt x 272.81924pt>
+File: genetic_analysis.png Graphic file (type png)
+
+<use genetic_analysis.png> [54
+
+ <./genetic_analysis.png (PNG copy)>] [55
+
 ]
 \tf@nav=\write5
 \openout5 = `slides.nav'.
@@ -948,17 +996,18 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 71--71
 \tf@snm=\write7
 \openout7 = `slides.snm'.
 
- (./slides.aux)
+
+(./slides.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 12869 strings out of 493848
- 231737 string characters out of 3149208
- 317335 words of memory out of 3000000
- 15711 multiletter control sequences out of 15000+200000
+ 12933 strings out of 493848
+ 232596 string characters out of 3149208
+ 321335 words of memory out of 3000000
+ 15748 multiletter control sequences out of 15000+200000
  6161 words of font info for 22 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,20n,62p,334b,732s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -967,9 +1016,9 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></
 usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></
 usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
-Output written on slides.pdf (45 pages, 637548 bytes).
+Output written on slides.pdf (55 pages, 907394 bytes).
 PDF statistics:
- 1275 PDF objects out of 1440 (max. 8388607)
- 99 named destinations out of 1000 (max. 500000)
- 175 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1884 PDF objects out of 2073 (max. 8388607)
+ 121 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.10.20)  11 DEC 2011 13:51
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.10.20)  11 DEC 2011 14:27
 entering extended mode
  %&-line parsing enabled.
 **slides.tex
@@ -834,11 +834,11 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 ] [5
 
-] <SNP.png, id=214, 334.048pt x 418.363pt>
+] <SNP.png, id=207, 334.048pt x 418.363pt>
 File: SNP.png Graphic file (type png)
  <use SNP.png> [6
 
- <./SNP.png>] <microarray.png, id=239, 1003.75pt x 594.22pt>
+ <./SNP.png>] <microarray.png, id=231, 1003.75pt x 594.22pt>
 File: microarray.png Graphic file (type png)
  <use microarray.png>
 [7
@@ -913,6 +913,8 @@ File: microarray.png Graphic file (type png)
 
 ] [41
 
+] [42
+
 ]
 \tf@nav=\write6
 \openout6 = `slides.nav'.
@@ -930,27 +932,24 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 14792 strings out of 495061
- 276984 string characters out of 1182620
+ 14791 strings out of 495061
+ 276975 string characters out of 1182620
  346023 words of memory out of 3000000
- 17499 multiletter control sequences out of 15000+50000
+ 17497 multiletter control sequences out of 15000+50000
  6161 words of font info for 22 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  49i,20n,62p,415b,750s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Navigation42} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3.1.38} has been referenced but does not e
-xist, replaced by a fixed one
+pdfTeX warning (dest): name{Outline0.3.1.37} has been referenced but does not
+ exist, replaced by a fixed one
 
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share
 /texmf-texlive/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-texl
 ive/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/ty
 pe1/public/amsfonts/cm/cmssi12.pfb></usr/share/texmf-texlive/fonts/type1/public
 /amsfonts/cm/cmssi8.pfb>
-Output written on slides.pdf (41 pages, 418735 bytes).
+Output written on slides.pdf (42 pages, 416003 bytes).
 PDF statistics:
- 1081 PDF objects out of 1200 (max. 8388607)
- 93 named destinations out of 1000 (max. 500000)
+ 1060 PDF objects out of 1200 (max. 8388607)
+ 94 named destinations out of 1000 (max. 500000)
  155 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -5,5 +5,5 @@
 \beamer@sectionintoc {2}{Privacy}{18}{0}{2}
 \beamer@subsectionintoc {2}{1}{Privacy implications}{18}{0}{2}
 \beamer@subsectionintoc {2}{2}{Consequences}{21}{0}{2}
-\beamer@sectionintoc {3}{Discussion}{36}{0}{3}
-\beamer@subsectionintoc {3}{1}{Outlook}{38}{0}{3}
+\beamer@sectionintoc {3}{Discussion}{34}{0}{3}
+\beamer@subsectionintoc {3}{1}{Outlook}{37}{0}{3}

@@ -61,14 +61,14 @@
 \headcommand {\beamer@framepages {43}{43}}
 \headcommand {\slideentry {3}{2}{6}{44/46}{Consequences}{0}}
 \headcommand {\beamer@framepages {44}{46}}
-\headcommand {\slideentry {3}{2}{7}{47/52}{Consequences}{0}}
+\headcommand {\sectionentry {4}{Discussion}{47}{Discussion}{0}}
+\headcommand {\beamer@sectionpages {31}{46}}
+\headcommand {\beamer@subsectionpages {34}{46}}
+\headcommand {\slideentry {4}{0}{7}{47/52}{}{0}}
 \headcommand {\beamer@framepages {47}{52}}
-\headcommand {\sectionentry {4}{Discussion}{53}{Discussion}{0}}
-\headcommand {\beamer@sectionpages {31}{52}}
-\headcommand {\beamer@subsectionpages {34}{52}}
 \headcommand {\slideentry {4}{0}{8}{53/55}{}{0}}
 \headcommand {\beamer@framepages {53}{55}}
-\headcommand {\beamer@subsectionentry {0}{4}{1}{56}{Outlook}}\headcommand {\beamer@subsectionpages {53}{55}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{56}{Outlook}}\headcommand {\beamer@subsectionpages {47}{55}}
 \headcommand {\slideentry {4}{1}{1}{56/58}{Outlook}{0}}
 \headcommand {\beamer@framepages {56}{58}}
 \headcommand {\slideentry {4}{1}{2}{59/59}{Outlook}{0}}
@@ -77,6 +77,6 @@
 \headcommand {\beamer@framepages {60}{60}}
 \headcommand {\beamer@partpages {1}{60}}
 \headcommand {\beamer@subsectionpages {56}{60}}
-\headcommand {\beamer@sectionpages {53}{60}}
+\headcommand {\beamer@sectionpages {47}{60}}
 \headcommand {\beamer@documentpages {60}}
 \headcommand {\def \inserttotalframenumber {29}}

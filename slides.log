@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.3.3)  12 DEC 2011 23:45
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.3.3)  12 DEC 2011 23:54
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -820,24 +820,24 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 ] [4
 
-] <SNP.png, id=276, 334.048pt x 418.363pt>
+] <SNP.png, id=270, 334.048pt x 418.363pt>
 File: SNP.png Graphic file (type png)
 
 <use SNP.png> [5
 
- <./SNP.png>] <microarray.png, id=313, 1003.75pt x 594.22pt>
+ <./SNP.png>] <microarray.png, id=306, 1003.75pt x 594.22pt>
 File: microarray.png Graphic file (type png)
 
 <use microarray.png> [6
 
  <./microarray.png>]
-<distribution-disease.png, id=349, 803.0pt x 552.0625pt>
+<distribution-disease.png, id=341, 803.0pt x 552.0625pt>
 File: distribution-disease.png Graphic file (type png)
 
 <use distribution-disease.png> [7
 
  <./distribution-disease.png (PNG copy)>]
-<gwas1.png, id=385, 803.0pt x 454.69875pt>
+<gwas1.png, id=376, 803.0pt x 454.69875pt>
 File: gwas1.png Graphic file (type png)
  <use gwas1.png>
 Overfull \hbox (13.90443pt too wide) in paragraph at lines 59--59
@@ -846,7 +846,7 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 59--59
 
 [8
 
- <./gwas1.png (PNG copy)>] <gwas2.png, id=420, 803.0pt x 455.7025pt>
+ <./gwas1.png (PNG copy)>] <gwas2.png, id=410, 803.0pt x 455.7025pt>
 File: gwas2.png Graphic file (type png)
 
 <use gwas2.png>
@@ -856,7 +856,7 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 65--65
 
 [9
 
- <./gwas2.png (PNG copy)>] <gwas3.png, id=455, 803.0pt x 455.7025pt>
+ <./gwas2.png (PNG copy)>] <gwas3.png, id=444, 803.0pt x 455.7025pt>
 File: gwas3.png Graphic file (type png)
 
 <use gwas3.png>
@@ -873,7 +873,7 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 71--71
 ] [13
 
 ]
-<doctor_xkcd.png, id=596, 51.19125pt x 117.43875pt>
+<doctor_xkcd.png, id=581, 51.19125pt x 117.43875pt>
 File: doctor_xkcd.png Graphic file (type png)
  <use doctor_xkcd.png>
 [14
@@ -887,7 +887,7 @@ File: doctor_xkcd.png Graphic file (type png)
 
 <use doctor_xkcd.png> [16
 
-] <23andme.png, id=701, 667.49374pt x 515.9275pt>
+] <23andme.png, id=683, 667.49374pt x 515.9275pt>
 File: 23andme.png Graphic file (type png)
 
 <use 23andme.png> [17
@@ -920,12 +920,12 @@ File: 23andme.png Graphic file (type png)
 ] [28
 
 ]
-<pie-sharing.png, id=1121, 269.005pt x 256.96pt>
+<pie-sharing.png, id=1091, 269.005pt x 256.96pt>
 File: pie-sharing.png Graphic file (type png)
  <use pie-sharing.png> [29
 
  <./pie-sharing.png (PNG copy)>]
-<sharing-reasons.png, id=1156, 678.535pt x 221.82875pt>
+<sharing-reasons.png, id=1125, 678.535pt x 221.82875pt>
 File: sharing-reasons.png Graphic file (type png)
 
 <use sharing-reasons.png> [30
@@ -952,7 +952,7 @@ File: sharing-reasons.png Graphic file (type png)
 ] [40
 
 ]
-<privacy1.png, id=1543, 803.0pt x 455.7025pt>
+<privacy1.png, id=1501, 803.0pt x 455.7025pt>
 File: privacy1.png Graphic file (type png)
  <use privacy1.png>
 Overfull \hbox (13.90443pt too wide) in paragraph at lines 183--183
@@ -961,7 +961,7 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 183--183
 
 [41
 
- <./privacy1.png (PNG copy)>] <privacy2.png, id=1578, 803.0pt x 455.7025pt>
+ <./privacy1.png (PNG copy)>] <privacy2.png, id=1535, 803.0pt x 455.7025pt>
 File: privacy2.png Graphic file (type png)
 
 <use privacy2.png>
@@ -971,7 +971,7 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 189--189
 
 [42
 
- <./privacy2.png (PNG copy)>] <privacy3.png, id=1613, 803.0pt x 455.7025pt>
+ <./privacy2.png (PNG copy)>] <privacy3.png, id=1569, 803.0pt x 455.7025pt>
 File: privacy3.png Graphic file (type png)
 
 <use privacy3.png>
@@ -1013,7 +1013,7 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 195--195
 ] [58
 
 ]
-<genetic_analysis.png, id=2172, 546.54187pt x 272.81924pt>
+<genetic_analysis.png, id=2113, 546.54187pt x 272.81924pt>
 File: genetic_analysis.png Graphic file (type png)
 
 <use genetic_analysis.png> [59
@@ -1051,9 +1051,9 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></u
 sr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></u
 sr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
-Output written on slides.pdf (60 pages, 1085468 bytes).
+Output written on slides.pdf (60 pages, 1074799 bytes).
 PDF statistics:
- 2293 PDF objects out of 2487 (max. 8388607)
+ 2232 PDF objects out of 2487 (max. 8388607)
  131 named destinations out of 1000 (max. 500000)
  237 words of extra memory for PDF output out of 10000 (max. 10000000)
 

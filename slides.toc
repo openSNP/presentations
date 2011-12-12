@@ -4,8 +4,8 @@
 \beamer@sectionintoc {2}{Open GWAS}{20}{0}{2}
 \beamer@subsectionintoc {2}{1}{In company vaults}{20}{0}{2}
 \beamer@subsectionintoc {2}{2}{Out of vaults}{26}{0}{2}
-\beamer@sectionintoc {3}{Privacy}{31}{0}{3}
-\beamer@subsectionintoc {3}{1}{Privacy implications}{31}{0}{3}
+\beamer@sectionintoc {3}{Privacy \& Implications}{31}{0}{3}
+\beamer@subsectionintoc {3}{1}{Some Implications}{31}{0}{3}
 \beamer@subsectionintoc {3}{2}{Consequences}{34}{0}{3}
-\beamer@sectionintoc {4}{Discussion}{48}{0}{4}
-\beamer@subsectionintoc {4}{1}{Outlook}{51}{0}{4}
+\beamer@sectionintoc {4}{Discussion}{53}{0}{4}
+\beamer@subsectionintoc {4}{1}{Outlook}{56}{0}{4}

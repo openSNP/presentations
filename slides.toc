@@ -1,4 +1,4 @@
-\beamer@endinputifotherversion {3.07pt}
+\beamer@endinputifotherversion {3.10pt}
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Association studies?}{3}{0}{1}
 \beamer@sectionintoc {2}{Open GWAS}{20}{0}{2}
@@ -8,4 +8,4 @@
 \beamer@subsectionintoc {3}{1}{Some Implications}{31}{0}{3}
 \beamer@subsectionintoc {3}{2}{Consequences}{34}{0}{3}
 \beamer@sectionintoc {4}{Discussion}{47}{0}{4}
-\beamer@subsectionintoc {4}{1}{Outlook}{56}{0}{4}
+\beamer@subsectionintoc {4}{1}{Outlook}{57}{0}{4}

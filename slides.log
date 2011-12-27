@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.10.20)  28 DEC 2011 00:05
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.10.20)  28 DEC 2011 07:40
 entering extended mode
  %&-line parsing enabled.
 **slides.tex
@@ -823,31 +823,31 @@ Dictionary: translator-theorem-dictionary, Language: English
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 16.
 
-[1
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./slides.toc) [2
+] (./slides.toc) [2
 
 ]
 [3
 
 ] [4
 
-] <SNP.png, id=90, 334.048pt x 418.363pt>
+] <SNP.png, id=272, 334.048pt x 418.363pt>
 File: SNP.png Graphic file (type png)
  <use SNP.png> [5
 
  <./SNP.png>]
-<microarray.png, id=99, 1003.75pt x 594.22pt>
+<microarray.png, id=309, 1003.75pt x 594.22pt>
 File: microarray.png Graphic file (type png)
  <use microarray.png> [6
 
- <./microarray.png>] <distribution-disease.png, id=107, 803.0pt x 552.0625pt>
+ <./microarray.png>] <distribution-disease.png, id=345, 803.0pt x 552.0625pt>
 File: distribution-disease.png Graphic file (type png)
 
 <use distribution-disease.png> [7
 
  <./distribution-disease.png (PNG copy)>]
-<gwas1.png, id=115, 803.0pt x 454.69875pt>
+<gwas1.png, id=381, 803.0pt x 454.69875pt>
 File: gwas1.png Graphic file (type png)
  <use gwas1.png>
 Overfull \hbox (13.90443pt too wide) in paragraph at lines 59--59
@@ -856,7 +856,7 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 59--59
 
 [8
 
- <./gwas1.png (PNG copy)>] <gwas2.png, id=122, 803.0pt x 455.7025pt>
+ <./gwas1.png (PNG copy)>] <gwas2.png, id=416, 803.0pt x 455.7025pt>
 File: gwas2.png Graphic file (type png)
 
 <use gwas2.png>
@@ -866,7 +866,7 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 65--65
 
 [9
 
- <./gwas2.png (PNG copy)>] <gwas3.png, id=129, 803.0pt x 455.7025pt>
+ <./gwas2.png (PNG copy)>] <gwas3.png, id=451, 803.0pt x 455.7025pt>
 File: gwas3.png Graphic file (type png)
 
 <use gwas3.png>
@@ -883,7 +883,7 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 71--71
 ] [13
 
 ]
-<doctor_xkcd.png, id=156, 51.19125pt x 117.43875pt>
+<doctor_xkcd.png, id=592, 51.19125pt x 117.43875pt>
 File: doctor_xkcd.png Graphic file (type png)
  <use doctor_xkcd.png>
 [14
@@ -897,7 +897,7 @@ File: doctor_xkcd.png Graphic file (type png)
 
 <use doctor_xkcd.png> [16
 
-] <23andme.png, id=175, 667.49374pt x 515.9275pt>
+] <23andme.png, id=697, 667.49374pt x 515.9275pt>
 File: 23andme.png Graphic file (type png)
 
 <use 23andme.png> [17
@@ -930,12 +930,12 @@ File: 23andme.png Graphic file (type png)
 ] [28
 
 ]
-<pie-sharing.png, id=251, 269.005pt x 256.96pt>
+<pie-sharing.png, id=1117, 269.005pt x 256.96pt>
 File: pie-sharing.png Graphic file (type png)
  <use pie-sharing.png> [29
 
  <./pie-sharing.png (PNG copy)>]
-<sharing-reasons.png, id=258, 678.535pt x 221.82875pt>
+<sharing-reasons.png, id=1152, 678.535pt x 221.82875pt>
 File: sharing-reasons.png Graphic file (type png)
 
 <use sharing-reasons.png> [30
@@ -962,7 +962,7 @@ File: sharing-reasons.png Graphic file (type png)
 ] [40
 
 ]
-<privacy1.png, id=330, 803.0pt x 455.7025pt>
+<privacy1.png, id=1539, 803.0pt x 455.7025pt>
 File: privacy1.png Graphic file (type png)
  <use privacy1.png>
 Overfull \hbox (13.90443pt too wide) in paragraph at lines 183--183
@@ -971,7 +971,7 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 183--183
 
 [41
 
- <./privacy1.png (PNG copy)>] <privacy2.png, id=337, 803.0pt x 455.7025pt>
+ <./privacy1.png (PNG copy)>] <privacy2.png, id=1574, 803.0pt x 455.7025pt>
 File: privacy2.png Graphic file (type png)
 
 <use privacy2.png>
@@ -981,7 +981,7 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 189--189
 
 [42
 
- <./privacy2.png (PNG copy)>] <privacy3.png, id=344, 803.0pt x 455.7025pt>
+ <./privacy2.png (PNG copy)>] <privacy3.png, id=1609, 803.0pt x 455.7025pt>
 File: privacy3.png Graphic file (type png)
 
 <use privacy3.png>
@@ -998,7 +998,7 @@ Overfull \hbox (13.90443pt too wide) in paragraph at lines 195--195
 ] [46
 
 ]
-<opensnp.png, id=370, 716.6775pt x 536.75531pt>
+<opensnp.png, id=1749, 716.6775pt x 536.75531pt>
 File: opensnp.png Graphic file (type png)
  <use opensnp.png>
 Overfull \vbox (11.48901pt too high) detected at line 214
@@ -1033,7 +1033,7 @@ Overfull \vbox (11.48901pt too high) detected at line 214
 
 ] [60
 
-] <genetic_analysis.png, id=448, 546.54187pt x 272.81924pt>
+] <genetic_analysis.png, id=2231, 546.54187pt x 272.81924pt>
 File: genetic_analysis.png Graphic file (type png)
 
 <use genetic_analysis.png> [61
@@ -1058,22 +1058,22 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 14823 strings out of 495061
- 277456 string characters out of 1182620
- 338021 words of memory out of 3000000
- 17474 multiletter control sequences out of 15000+50000
+ 14966 strings out of 495061
+ 279771 string characters out of 1182620
+ 354022 words of memory out of 3000000
+ 17617 multiletter control sequences out of 15000+50000
  6466 words of font info for 23 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 49i,16n,57p,415b,553s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,20n,62p,415b,750s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-te
 xlive/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-texlive/fonts
 /type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/publi
 c/amsfonts/cm/cmssi12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
 /cm/cmssi8.pfb>
-Output written on slides.pdf (62 pages, 1070258 bytes).
+Output written on slides.pdf (62 pages, 1433043 bytes).
 PDF statistics:
- 515 PDF objects out of 1000 (max. 8388607)
+ 2354 PDF objects out of 2487 (max. 8388607)
  135 named destinations out of 1000 (max. 500000)
- 236 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 242 words of extra memory for PDF output out of 10000 (max. 10000000)
 

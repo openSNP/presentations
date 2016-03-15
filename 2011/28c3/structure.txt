@@ -1,0 +1,14 @@
+Introduction - 
+	What is Personal Genomics?
+	How do GWAS/Microarrays work?
+	Why open?
+
+Main -
+	Privacy implications
+	Positive consequences of open genotypings
+	Negative consequences of open genotypings - relatives, privacy
+	Why people should care
+
+End - 
+	Outlook for openSNP
+	Discussion
